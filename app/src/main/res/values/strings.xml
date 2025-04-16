@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaSuperAppFirebase</string>
+    <!-- OPTION - IMPORTANT: Remplacez par VOTRE Web Client ID trouvé dans google-services.json (type 3) ou Cloud Console -->
+    <string name="default_web_client_id">1:671488438544:android:6d70fda52ede4f990cb595</string>
+</resources>

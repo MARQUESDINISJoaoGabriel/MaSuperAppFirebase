@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671488438544",
+    "project_id": "masuperappfirebase-backe-c34d4",
+    "storage_bucket": "masuperappfirebase-backe-c34d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671488438544:android:6d70fda52ede4f990cb595",
+        "android_client_info": {
+          "package_name": "com.example.masuperappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaA-3uxes64SyxS4dCV4fSdfpIyht7DDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
